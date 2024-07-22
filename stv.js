@@ -16,4 +16,4 @@ let num3 = 19 + 20
 This line is for the final popup message.
 Including all the variables in sequence like this will cause the appropriate message to appear.
 */
-alert(`{str} {num1} - {num2} - {num3}`)
+alert(`${str} ${num1} - ${num2} - ${num3}`)
